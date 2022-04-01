@@ -1,7 +1,7 @@
 # Springboot+vue3+elementPlus+微信小程序报修管理系统 V2 
 
 
-<video src="https://player.bilibili.com/player.html?aid=852287533" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+[快速预览项目：点击查看项目演示视频](https://player.bilibili.com/player.html?aid=852287533)
 
 
 ### 一、本次及前几次分享的目的
