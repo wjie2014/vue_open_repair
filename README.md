@@ -1,7 +1,8 @@
 # Springboot+vue3+elementPlus+微信小程序报修管理系统 V2 
 
 
-[video(video-jutTOVD5-1647351343509)(type-bilibili)(url-https://player.bilibili.com/player.html?aid=852287533)(image-https://img-blog.csdnimg.cn/img_convert/949b2c504d01b70584089558a9d32c5f.png)(title-Springboot + Vue3 + Element Plus + 微信小程序报修管理系统)]
+<video src="https://player.bilibili.com/player.html?aid=852287533" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+
 
 ### 一、本次及前几次分享的目的
 - 将自己10年的开发经验，积累的知识，学习方法以教程及源码的形式，分享给有需要的人，而不是投机取巧的人。
